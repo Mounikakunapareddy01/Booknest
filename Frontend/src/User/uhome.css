@@ -1,0 +1,29 @@
+#uhome{
+    height: 700px;
+    background-image: url("https://furniture-shop-site.netlify.app/static/media/defaultBcg.9a1103b5.jpeg");
+    color: hsla(79, 38%, 78%, 0.89);
+    
+}
+
+#hh{
+  
+    margin-top: 200px;
+    margin-left: 480px;
+    margin-right: 480px;
+    background-color: #a38f8f92;
+   
+}
+#bt{
+  
+    height: 60px;
+    width: 170px;
+    background-color: rgb(205, 180, 148);
+    border: none;
+    color: rgb(234, 222, 222);
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+#bt:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
